@@ -23,7 +23,7 @@
 
 ## GitHub Stats
 ![이성종's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lsjthon&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lsjthon&layout=compact&theme=dark&card_width=370&langs_count=8)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lsjthon&layout=compact&theme=dark&card_width=375&langs_count=8)
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lsjthon&theme=react-dark)
