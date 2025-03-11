@@ -18,6 +18,3 @@
 
 ##  GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=lsjthon&theme=tokyonight&hide_border=true)
-
-##  GitHub 방문수
-![Visitors](https://komarev.com/ghpvc/?username=lsjthon&color=blue)
