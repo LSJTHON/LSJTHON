@@ -8,7 +8,6 @@
 
 ## Contact Me
 [![Email](https://img.shields.io/badge/Email-dltjdwhd1235@naver.com-red?style=flat-square&logo=gmail)](mailto:dltjdwhd1235@naver.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-이성종's%20Portfolio-green?style=flat-square&logo=react)](https://your-portfolio-link.com)
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
