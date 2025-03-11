@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="25">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="30">
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="25">
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" height="25">
       <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=spring&logoColor=white" height="25">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="25">
