@@ -1,6 +1,33 @@
 ## Contact Me
 [![Email](https://img.shields.io/badge/Email-dltjdwhd1235@naver.com-red?style=flat-square&logo=gmail)](mailto:dltjdwhd1235@naver.com)
 
+## Studying
+<table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Database</th>
+    <th>DevOps & Tools</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="25">
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" height="25">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="25">
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" height="25">
+      <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=spring&logoColor=white" height="25">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25">
+    </td>
+  </tr>
+</table>
+
 ## 기술 스택
 <table>
   <tr>
