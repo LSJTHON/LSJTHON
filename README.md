@@ -1,3 +1,6 @@
+## Contact Me
+[![Email](https://img.shields.io/badge/Email-dltjdwhd1235@naver.com-red?style=flat-square&logo=gmail)](mailto:dltjdwhd1235@naver.com)
+
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -27,6 +30,3 @@
 
 ## GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=lsjthon&theme=onedark)
-
-## Contact Me
-[![Email](https://img.shields.io/badge/Email-dltjdwhd1235@naver.com-red?style=flat-square&logo=gmail)](mailto:dltjdwhd1235@naver.com)
