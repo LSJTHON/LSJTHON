@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-## 기술 스택
+## Tech Stack
 <table>
   <tr>
     <th>Frontend</th>
