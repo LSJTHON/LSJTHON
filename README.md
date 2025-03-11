@@ -16,6 +16,3 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-
-##  GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=lsjthon&theme=tokyonight&hide_border=true)
