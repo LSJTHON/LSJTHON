@@ -51,6 +51,8 @@
       <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=spring&logoColor=white" height="25">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="25">
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="25">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25">
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="25">
     </td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25">
@@ -64,6 +66,7 @@
     </td>
   </tr>
 </table>
+
 
 ## GitHub Stats
 ![이성종's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lsjthon&show_icons=true&theme=dark&count_private=true)
