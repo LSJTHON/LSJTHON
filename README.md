@@ -61,6 +61,9 @@
       <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" height="25">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25">
       <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" height="25">
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="25">
+      <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" height="25">
+
     </td>
   </tr>
 </table>
