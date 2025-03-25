@@ -70,9 +70,6 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lsjthon&layout=compact&theme=dark&card_width=375&langs_count=8)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lsjthon&theme=github-dark)
 
-## GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=lsjthon&theme=onedark)
-
 
  
 
