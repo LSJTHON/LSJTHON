@@ -13,6 +13,7 @@
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="25">
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" height="25">
+      <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white" height="25">
     </td>
     <td>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="25">
